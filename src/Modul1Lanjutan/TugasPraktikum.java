@@ -43,18 +43,18 @@ public class TugasPraktikum {
         System.out.println("2)");
         int d; 
         for(d = 0; d < 1; d++){
-        System.out.println("@");
+        System.out.println("*");
         }
         for(d = 0; d < 2; d++){
-        System.out.print("@");
+        System.out.print("*");
         }
         System.out.println(" ");
          for(d = 0; d < 3; d++){
-        System.out.print("@");
+        System.out.print("*");
         }
         System.out.println(" ");
         for(d = 0; d < 4; d++){
-        System.out.print("@");
+        System.out.print("*");
         }
         System.out.println("\n");
         
