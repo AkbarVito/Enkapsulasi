@@ -35,7 +35,7 @@ public class Praktikum1 {
             System.out.println("\nRata-rata berat badan penumpang adalah : "+counter+" Kg");
    }
    public void getpenumpang(int password){
-    if (password == 12345678){
+    if (password == 123){
         System.out.println("\nPassword Benar");
             System.out.println("\n==============================================");
     }else{
